@@ -1,0 +1,12 @@
+.ag-theme-alpine .ag-cell, .ag-theme-alpine .ag-full-width-row .ag-cell-wrapper.ag-row-group {
+    line-height: 40px !important;
+  }
+
+  .iconActionList {
+    display: flex;
+    position: relative;
+    top: 5px;
+    justify-content: center
+  
+  
+  }

@@ -1,0 +1,21 @@
+.userlist ul li {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 4px 0px;
+}
+.userlist {
+    background: #fff;
+    padding: 30px 15px;
+    border-radius: 6px;
+    box-shadow: 1px 0 20px rgb(0 0 0 / 8%);
+}
+
+h4.heading {
+    padding-left: 28px;
+    padding-bottom: 20px;
+}
+
+img {
+    border-radius: 50%;
+}

@@ -1,0 +1,4 @@
+.btn-check:focus + .btn, .btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
